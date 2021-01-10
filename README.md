@@ -2,7 +2,7 @@
 
 
 
-## Can the bot play music 7/24?
+## Can the bot play music 24/7?
 
 - Yes if you type n:afk.
 
@@ -24,10 +24,10 @@ These commands are **ONLY** for the music.
 
 ![image](img/play.png "Music play command")
 
-#### Entity framework bot
+#### 24/7
 
-![image](Img/EfCore.png "Basic bot preview")
+![image](img/afk.png "afkpng")
 
-#Vote
+# Vote
 
 **Please vot to my bot** [Here](https://top.gg/bot/755138465523433552)
