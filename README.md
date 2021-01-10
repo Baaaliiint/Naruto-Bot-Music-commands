@@ -2,11 +2,10 @@
 
 
 
+
+
+
 ## Music Commands
-
-
-
-## Commands
 
 These commands are **ONLY** for the music.
 
