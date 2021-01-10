@@ -22,7 +22,7 @@ These commands are **ONLY** for the music.
 
 #### Photos
 
-![image](Img/BasicBot.png "Music play command")
+![image](Img/play.png "Music play command")
 
 #### Entity framework bot
 
