@@ -5,7 +5,7 @@
 
 
 
-#  ![image](img/naruto.gif "gif")  Music Commands
+#  ![image](img/naruto.gif "gif")  Music Commands    ![image](img/naruto2.gif "gif")
 
 These commands are **ONLY** for the music.
 
