@@ -2,9 +2,9 @@
 
 
 
-## Can the bot play music 24/7?
+## Music Commands
 
-- Yes if you type n:afk.
+
 
 ## Commands
 
