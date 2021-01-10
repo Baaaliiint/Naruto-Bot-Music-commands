@@ -10,13 +10,13 @@
 
 These commands are **ONLY** for the music.
 
--**volume** : You can change the music volume (0-100)
--**queue** : Shows the music queue
--**skip** : Skip to the other music 
--**pruning**: Try it! very good command maybe :c
--**skipto**: Usage: n:skipto BlueBird
--**resume**: Resumes the music
-- **__Enjoy your bot!**
+- **volume** : You can change the music volume (0-100)
+- **queue** : Shows the music queue
+- **skip** : Skip to the other music 
+- **pruning**: Try it! very good command maybe :c
+- **skipto**: Usage: n:skipto BlueBird
+- **resume**: Resumes the music
+-  **__Enjoy__ the bot!**
 
 
 
